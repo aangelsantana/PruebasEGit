@@ -7,6 +7,7 @@ public class PruebasEGit {
 		System.out.println("PruebasEGit");
 		System.out.println("Segundo commit máster");
 		System.out.println("Primer commit rama1");
+		System.out.println("Segundo commit rama1");
 	}
 
 }
